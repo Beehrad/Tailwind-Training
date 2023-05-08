@@ -1,0 +1,10 @@
+/* @tailwind base; */
+
+.bg-amber-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(217 119 6 / var(--tw-bg-opacity))
+}
+
+.p-4 {
+  padding: 1rem
+}
