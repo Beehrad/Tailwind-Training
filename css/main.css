@@ -1,10 +1,14 @@
 /* @tailwind base; */
 
-.bg-amber-600 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(217 119 6 / var(--tw-bg-opacity))
+.w-full {
+  width: 100%
 }
 
-.p-4 {
-  padding: 1rem
+.bg-green-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(134 239 172 / var(--tw-bg-opacity))
+}
+
+.p-8 {
+  padding: 2rem
 }
